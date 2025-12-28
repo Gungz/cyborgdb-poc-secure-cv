@@ -288,7 +288,7 @@ Start all services:
 docker-compose up -d
 ```
 
-## Running Tests
+## Running Tests (Optional)
 
 ### Backend Tests
 
