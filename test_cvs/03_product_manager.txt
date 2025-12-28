@@ -1,0 +1,54 @@
+CURRICULUM VITAE
+
+PERSONAL INFORMATION
+Name: Michael Rodriguez
+Email: michael.rodriguez@email.com
+Phone: +1 (555) 345-6789
+Location: Seattle, WA
+LinkedIn: linkedin.com/in/michaelrodriguez
+
+PROFESSIONAL SUMMARY
+Strategic Product Manager with 6+ years of experience driving product vision and roadmap for B2B SaaS platforms. Skilled in user research, data-driven decision making, and cross-functional team leadership. Track record of launching products that increased revenue by 40%+.
+
+SKILLS
+Product Management: Roadmap Planning, User Stories, PRDs, A/B Testing, OKRs
+Tools: JIRA, Confluence, Figma, Amplitude, Mixpanel, Google Analytics
+Methodologies: Agile, Scrum, Lean Startup, Design Thinking
+Technical: SQL, Basic Python, API Understanding, Data Analysis
+Soft Skills: Stakeholder Management, Presentation, Negotiation, Leadership
+
+WORK EXPERIENCE
+
+Senior Product Manager | CloudSoft Inc. | Feb 2021 - Present
+- Own product strategy for enterprise collaboration platform ($50M ARR)
+- Launched 3 major features resulting in 25% increase in user engagement
+- Conducted 100+ customer interviews to identify pain points and opportunities
+- Managed backlog of 200+ items and prioritized based on business impact
+- Collaborated with engineering, design, and marketing teams (15+ people)
+
+Product Manager | SaaSStartup | Jun 2018 - Jan 2021
+- Led development of mobile app from concept to launch (500K downloads)
+- Defined product metrics and built dashboards for tracking KPIs
+- Reduced customer churn by 20% through feature improvements
+- Worked with UX team to redesign onboarding flow (40% conversion increase)
+
+Associate Product Manager | TechGiant Corp | Aug 2016 - May 2018
+- Supported senior PMs in feature development and launch
+- Wrote detailed product requirements documents and user stories
+- Analyzed user behavior data to inform product decisions
+- Coordinated with QA team for testing and bug tracking
+
+EDUCATION
+Master of Business Administration (MBA)
+Stanford Graduate School of Business | 2014 - 2016
+
+Bachelor of Science in Industrial Engineering
+Georgia Institute of Technology | 2010 - 2014
+
+CERTIFICATIONS
+- Certified Scrum Product Owner (CSPO)
+- Pragmatic Marketing Certified (PMC)
+
+ACHIEVEMENTS
+- Speaker at ProductCon 2022: "Data-Driven Product Decisions"
+- Mentor at Product School (20+ mentees)

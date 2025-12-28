@@ -1,0 +1,59 @@
+CURRICULUM VITAE
+
+PERSONAL INFORMATION
+Name: Lisa Chen
+Email: lisa.chen@email.com
+Phone: +1 (555) 012-3456
+Location: Washington, DC
+LinkedIn: linkedin.com/in/lisachen
+
+PROFESSIONAL SUMMARY
+PMP-certified Project Manager with 7+ years of experience leading complex IT and business transformation projects. Expert in Agile and Waterfall methodologies with a track record of delivering projects on time and within budget. Strong stakeholder management and team leadership skills.
+
+SKILLS
+Project Management: Scope Management, Risk Management, Budget Management, Resource Planning
+Methodologies: Agile, Scrum, Waterfall, Hybrid, SAFe, Kanban
+Tools: MS Project, JIRA, Asana, Monday.com, Smartsheet, Confluence
+Technical: Basic SQL, Process Mapping, Requirements Gathering, UAT Coordination
+Soft Skills: Leadership, Communication, Problem Solving, Conflict Resolution
+
+WORK EXPERIENCE
+
+Senior Project Manager | Consulting Firm Inc. | Jun 2020 - Present
+- Lead portfolio of 5-7 concurrent projects ($10M+ total budget)
+- Delivered ERP implementation for Fortune 500 client (18-month timeline)
+- Managed cross-functional teams of 20-50 members across multiple locations
+- Achieved 95% on-time delivery rate across all projects
+- Developed PMO standards and templates adopted company-wide
+- Mentored 8 junior project managers
+
+Project Manager | Technology Corp | Aug 2017 - May 2020
+- Managed software development projects using Agile methodology
+- Delivered mobile app project 2 weeks ahead of schedule (saving $200K)
+- Coordinated with offshore development teams across 3 time zones
+- Implemented risk management framework reducing project risks by 40%
+- Facilitated sprint planning, daily standups, and retrospectives
+
+Associate Project Manager | Government Contractor | Jan 2016 - Jul 2017
+- Supported senior PMs on federal IT modernization projects
+- Created project schedules, status reports, and documentation
+- Tracked project budgets and managed change requests
+- Coordinated with stakeholders and vendors
+
+EDUCATION
+Master of Science in Project Management
+George Washington University | 2014 - 2016
+
+Bachelor of Science in Information Systems
+University of Maryland | 2010 - 2014
+
+CERTIFICATIONS
+- Project Management Professional (PMP)
+- Certified Scrum Master (CSM)
+- SAFe 5 Agilist
+- ITIL Foundation
+
+ACHIEVEMENTS
+- PMI Project of the Year Finalist (2022)
+- Delivered 25+ projects with 98% client satisfaction
+- Speaker at PMI Global Conference 2021

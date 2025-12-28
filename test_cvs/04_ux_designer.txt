@@ -1,0 +1,56 @@
+CURRICULUM VITAE
+
+PERSONAL INFORMATION
+Name: Emily Park
+Email: emily.park@email.com
+Phone: +1 (555) 456-7890
+Location: Austin, TX
+Portfolio: emilypark.design
+LinkedIn: linkedin.com/in/emilypark
+
+PROFESSIONAL SUMMARY
+Creative UX/UI Designer with 5+ years of experience crafting intuitive digital experiences. Expertise in user research, interaction design, and design systems. Passionate about accessibility and inclusive design. Portfolio includes work for Fortune 500 companies and innovative startups.
+
+SKILLS
+Design Tools: Figma, Sketch, Adobe XD, InVision, Principle, After Effects
+Research: User Interviews, Usability Testing, Surveys, A/B Testing, Heuristic Evaluation
+Prototyping: High-fidelity Prototypes, Wireframing, User Flows, Journey Mapping
+Front-end: HTML, CSS, Basic JavaScript, React (for prototyping)
+Accessibility: WCAG 2.1, Screen Reader Testing, Color Contrast Analysis
+
+WORK EXPERIENCE
+
+Senior UX Designer | DesignFirst Agency | Mar 2021 - Present
+- Lead designer for enterprise SaaS redesign project ($10M contract)
+- Created comprehensive design system used across 5 product teams
+- Conducted user research with 200+ participants to inform design decisions
+- Improved task completion rate by 45% through UX improvements
+- Mentored 3 junior designers and established design review process
+
+UX Designer | E-commerce Platform Inc. | Jul 2019 - Feb 2021
+- Redesigned checkout flow reducing cart abandonment by 30%
+- Built and maintained component library in Figma (100+ components)
+- Collaborated with product and engineering on feature development
+- Led accessibility audit and remediation efforts (WCAG AA compliance)
+
+Junior UX Designer | Creative Studio | Jan 2018 - Jun 2019
+- Designed mobile apps for various clients (healthcare, finance, retail)
+- Created wireframes, mockups, and interactive prototypes
+- Participated in user testing sessions and synthesized findings
+- Supported senior designers on large-scale projects
+
+EDUCATION
+Bachelor of Fine Arts in Graphic Design
+Rhode Island School of Design (RISD) | 2014 - 2018
+
+CERTIFICATIONS
+- Google UX Design Professional Certificate (2021)
+- Certified Usability Analyst (CUA) - Human Factors International
+
+AWARDS
+- Webby Award Honoree - Best User Experience (2022)
+- AIGA Design Competition - Silver Medal (2021)
+
+VOLUNTEER
+- Design mentor at Girls Who Code
+- Pro-bono design work for local nonprofits

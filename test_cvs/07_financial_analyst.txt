@@ -1,0 +1,56 @@
+CURRICULUM VITAE
+
+PERSONAL INFORMATION
+Name: David Kim
+Email: david.kim@email.com
+Phone: +1 (555) 789-0123
+Location: Chicago, IL
+LinkedIn: linkedin.com/in/davidkim
+
+PROFESSIONAL SUMMARY
+Financial Analyst with 6+ years of experience in financial modeling, valuation, and strategic analysis. Strong background in investment banking and corporate finance. Expert in building complex financial models and presenting insights to senior leadership.
+
+SKILLS
+Financial Analysis: DCF Modeling, LBO Analysis, Comparable Analysis, M&A Valuation
+Tools: Excel (Advanced), Bloomberg Terminal, Capital IQ, FactSet, Tableau
+Accounting: GAAP, IFRS, Financial Statement Analysis, Budgeting, Forecasting
+Programming: VBA, Python (Pandas, NumPy), SQL
+Soft Skills: Presentation, Stakeholder Management, Critical Thinking
+
+WORK EXPERIENCE
+
+Senior Financial Analyst | Investment Bank Corp | Mar 2021 - Present
+- Lead analyst on M&A transactions totaling $5B+ in deal value
+- Built comprehensive financial models for client presentations
+- Conducted due diligence and valuation analysis for PE clients
+- Mentored 4 junior analysts and reviewed their work
+- Presented findings to C-suite executives and board members
+
+Financial Analyst | Fortune 500 Company | Jul 2018 - Feb 2021
+- Developed annual budget and quarterly forecasts ($500M revenue)
+- Created variance analysis reports for senior management
+- Built automated reporting dashboards reducing manual work by 40%
+- Supported strategic planning initiatives and capital allocation decisions
+- Collaborated with business units on financial planning
+
+Junior Financial Analyst | Consulting Firm | Aug 2016 - Jun 2018
+- Performed financial analysis for client engagements
+- Built Excel models for scenario analysis and sensitivity testing
+- Prepared client presentations and deliverables
+- Conducted industry research and competitive analysis
+
+EDUCATION
+Master of Business Administration (MBA) - Finance Concentration
+University of Chicago Booth School of Business | 2014 - 2016
+
+Bachelor of Science in Finance
+University of Illinois at Urbana-Champaign | 2010 - 2014
+
+CERTIFICATIONS
+- Chartered Financial Analyst (CFA) - Level III Candidate
+- Financial Modeling & Valuation Analyst (FMVA)
+
+ACHIEVEMENTS
+- Top Performer Award - Investment Bank Corp (2022)
+- Dean's List - University of Chicago Booth
+- Published research on emerging market valuations

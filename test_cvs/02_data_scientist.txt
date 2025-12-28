@@ -1,0 +1,53 @@
+CURRICULUM VITAE
+
+PERSONAL INFORMATION
+Name: Sarah Johnson
+Email: sarah.johnson@email.com
+Phone: +1 (555) 234-5678
+Location: New York, NY
+LinkedIn: linkedin.com/in/sarahjohnson
+
+PROFESSIONAL SUMMARY
+Data Scientist with 5+ years of experience in machine learning, statistical analysis, and predictive modeling. Expert in transforming complex data into actionable business insights. Strong background in NLP, computer vision, and deep learning frameworks.
+
+TECHNICAL SKILLS
+Programming: Python, R, SQL, Scala
+ML/AI: TensorFlow, PyTorch, Scikit-learn, Keras, XGBoost, LightGBM
+Data Tools: Pandas, NumPy, Spark, Hadoop, Airflow
+Visualization: Tableau, Power BI, Matplotlib, Seaborn, Plotly
+Cloud: AWS SageMaker, Google Cloud AI Platform, Azure ML
+Statistics: Hypothesis Testing, A/B Testing, Bayesian Methods, Time Series Analysis
+
+WORK EXPERIENCE
+
+Senior Data Scientist | FinanceAI Corp | Apr 2021 - Present
+- Developed fraud detection model reducing false positives by 35% and saving $2M annually
+- Built NLP pipeline for sentiment analysis of customer feedback (95% accuracy)
+- Led team of 3 data scientists on recommendation engine project
+- Presented insights to C-level executives driving strategic decisions
+
+Data Scientist | RetailTech Solutions | Aug 2019 - Mar 2021
+- Created demand forecasting models improving inventory accuracy by 25%
+- Implemented customer segmentation using clustering algorithms
+- Built automated reporting dashboards used by 50+ stakeholders
+- Collaborated with engineering team to deploy models to production
+
+Junior Data Analyst | DataInsights Inc. | Jan 2018 - Jul 2019
+- Performed exploratory data analysis on large datasets (10M+ records)
+- Created SQL queries and ETL pipelines for data warehouse
+- Developed interactive dashboards in Tableau for business teams
+
+EDUCATION
+Master of Science in Data Science
+Columbia University | 2016 - 2018
+
+Bachelor of Science in Statistics
+University of Michigan | 2012 - 2016
+
+CERTIFICATIONS
+- Google Professional Machine Learning Engineer (2022)
+- AWS Certified Machine Learning - Specialty (2021)
+
+PUBLICATIONS
+- "Deep Learning Approaches for Financial Fraud Detection" - IEEE Conference 2022
+- "Customer Churn Prediction Using Ensemble Methods" - KDD Workshop 2021

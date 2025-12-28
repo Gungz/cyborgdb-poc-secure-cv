@@ -1,0 +1,50 @@
+CURRICULUM VITAE
+
+PERSONAL INFORMATION
+Name: Alex Chen
+Email: alex.chen@email.com
+Phone: +1 (555) 123-4567
+Location: San Francisco, CA
+LinkedIn: linkedin.com/in/alexchen
+
+PROFESSIONAL SUMMARY
+Senior Software Engineer with 7+ years of experience in full-stack development, specializing in Python, JavaScript, and cloud technologies. Proven track record of delivering scalable applications and leading development teams. Passionate about clean code, test-driven development, and continuous improvement.
+
+TECHNICAL SKILLS
+Programming Languages: Python, JavaScript, TypeScript, Java, Go
+Frameworks: React, Node.js, Django, FastAPI, Spring Boot
+Databases: PostgreSQL, MongoDB, Redis, Elasticsearch
+Cloud & DevOps: AWS (EC2, S3, Lambda, RDS), Docker, Kubernetes, Terraform, CI/CD
+Tools: Git, JIRA, Confluence, VS Code, IntelliJ IDEA
+
+WORK EXPERIENCE
+
+Senior Software Engineer | TechCorp Inc. | Jan 2021 - Present
+- Led development of microservices architecture serving 2M+ daily active users
+- Reduced API response time by 40% through optimization and caching strategies
+- Mentored team of 5 junior developers and conducted code reviews
+- Implemented CI/CD pipelines reducing deployment time from 2 hours to 15 minutes
+
+Software Engineer | StartupXYZ | Mar 2018 - Dec 2020
+- Built real-time data processing pipeline handling 100K events per second
+- Developed RESTful APIs using Python/FastAPI with 99.9% uptime
+- Collaborated with product team to define technical requirements
+- Introduced automated testing increasing code coverage from 45% to 85%
+
+Junior Developer | WebAgency Co. | Jun 2016 - Feb 2018
+- Developed responsive web applications using React and Node.js
+- Maintained legacy PHP applications and migrated to modern stack
+- Participated in agile ceremonies and sprint planning
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of California, Berkeley | 2012 - 2016
+GPA: 3.7/4.0
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate (2022)
+- Certified Kubernetes Administrator (CKA) (2021)
+
+PROJECTS
+- Open-source contributor to FastAPI and React libraries
+- Personal blog on software engineering best practices (10K monthly readers)

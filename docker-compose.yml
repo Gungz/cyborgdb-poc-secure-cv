@@ -1,0 +1,77 @@
+version: '3.8'
+
+services:
+  # PostgreSQL database - shared by both user data and CyborgDB
+  postgres:
+    image: postgres:15
+    container_name: securehr-postgres
+    environment:
+      POSTGRES_USER: securehr
+      POSTGRES_PASSWORD: securehr_password
+      POSTGRES_DB: securehr
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    #healthcheck:
+    #  test: ["CMD-SHELL", "pg_isready -U securehr -d securehr"]
+    #  interval: 10s
+    #  timeout: 5s
+    #  retries: 5
+    #restart: unless-stopped
+
+  # CyborgDB encrypted vector database service
+  # Uses PostgreSQL as backing store
+  cyborgdb:
+    image: cyborginc/cyborgdb-service:latest
+    container_name: securehr-cyborgdb
+    depends_on:
+      - postgres
+    environment:
+      CYBORGDB_API_KEY: <replace_with_your_api_key>
+      CYBORGDB_DB_TYPE: postgres
+      CYBORGDB_CONNECTION_STRING: host=postgres port=5432 dbname=securehr user=securehr password=securehr_password
+    ports:
+      - "8100:8000"
+
+  # Backend API service (for production deployment)
+  # backend:
+  #   build:
+  #     context: ./backend
+  #     dockerfile: Dockerfile
+  #   container_name: securehr-backend
+  #   depends_on:
+  #     postgres:
+  #       condition: service_healthy
+  #     cyborgdb:
+  #       condition: service_started
+  #   environment:
+  #     DATABASE_URL: postgresql://securehr:securehr_password@postgres:5432/securehr
+  #     CYBORGDB_HOST: cyborgdb
+  #     CYBORGDB_PORT: 8000
+  #     CYBORGDB_API_KEY: ${CYBORGDB_API_KEY:-cyborg_811712f980d8437083bc85ebda625f8a}
+  #     SECRET_KEY: ${SECRET_KEY:-your-secret-key-change-in-production}
+  #     ALGORITHM: HS256
+  #     ACCESS_TOKEN_EXPIRE_MINUTES: 30
+  #   ports:
+  #     - "8000:8000"
+  #   volumes:
+  #     - ./backend:/app
+  #   restart: unless-stopped
+
+  # Frontend service (for production deployment)
+  # frontend:
+  #   build:
+  #     context: ./frontend
+  #     dockerfile: Dockerfile
+  #   container_name: securehr-frontend
+  #   depends_on:
+  #     - backend
+  #   environment:
+  #     REACT_APP_API_URL: http://localhost:8000
+  #   ports:
+  #     - "3000:3000"
+  #   restart: unless-stopped
+
+volumes:
+  postgres_data:

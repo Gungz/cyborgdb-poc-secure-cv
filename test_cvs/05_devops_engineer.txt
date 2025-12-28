@@ -1,0 +1,55 @@
+CURRICULUM VITAE
+
+PERSONAL INFORMATION
+Name: James Wilson
+Email: james.wilson@email.com
+Phone: +1 (555) 567-8901
+Location: Denver, CO
+GitHub: github.com/jameswilson
+LinkedIn: linkedin.com/in/jameswilson
+
+PROFESSIONAL SUMMARY
+DevOps Engineer with 6+ years of experience in cloud infrastructure, automation, and site reliability. Expert in building and maintaining CI/CD pipelines, container orchestration, and infrastructure as code. Strong focus on security, monitoring, and cost optimization.
+
+TECHNICAL SKILLS
+Cloud Platforms: AWS (Expert), GCP, Azure
+Containers: Docker, Kubernetes, ECS, EKS, Helm
+IaC: Terraform, CloudFormation, Ansible, Pulumi
+CI/CD: Jenkins, GitLab CI, GitHub Actions, ArgoCD, Spinnaker
+Monitoring: Prometheus, Grafana, Datadog, ELK Stack, PagerDuty
+Scripting: Bash, Python, Go
+Security: HashiCorp Vault, AWS IAM, SOPS, OPA
+
+WORK EXPERIENCE
+
+Senior DevOps Engineer | CloudNative Inc. | May 2021 - Present
+- Architected multi-region Kubernetes infrastructure serving 5M+ requests/day
+- Reduced infrastructure costs by 35% through right-sizing and spot instances
+- Implemented GitOps workflow with ArgoCD for 50+ microservices
+- Built self-service platform enabling developers to deploy independently
+- Led incident response and achieved 99.99% uptime SLA
+
+DevOps Engineer | TechScale Solutions | Aug 2019 - Apr 2021
+- Migrated legacy applications to containerized architecture on AWS EKS
+- Developed Terraform modules for standardized infrastructure provisioning
+- Created monitoring dashboards and alerting rules (reduced MTTR by 60%)
+- Implemented secrets management using HashiCorp Vault
+
+Systems Administrator | DataCenter Corp | Mar 2017 - Jul 2019
+- Managed Linux servers (500+ instances) in hybrid cloud environment
+- Automated routine tasks using Ansible playbooks
+- Configured and maintained backup and disaster recovery systems
+- Provided 24/7 on-call support for production systems
+
+EDUCATION
+Bachelor of Science in Information Technology
+University of Colorado Boulder | 2013 - 2017
+
+CERTIFICATIONS
+- AWS Certified DevOps Engineer - Professional (2022)
+- Certified Kubernetes Administrator (CKA) (2021)
+- HashiCorp Certified Terraform Associate (2020)
+
+PROJECTS
+- Open-source Kubernetes operator for database management (500+ GitHub stars)
+- Technical blog on DevOps best practices (5K monthly readers)
